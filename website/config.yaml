@@ -33,7 +33,7 @@ params:
   profile_image: "/images/profile.png"
   name: "Tri Indayanti"
   namecolor: ffc107
-  profession: "Profession"
+  profession: "Siswa"
   github: "https://github.com"
   linkedin: "https://linkedin.com"
   twitter: "https://twitter.com/"
@@ -52,7 +52,7 @@ params:
     - name: Memasak
       percentage: 80
     - name: Olahraga
-      percentage: 70
+      percentage: 75
 
   # Experience
   disable_experience: false
